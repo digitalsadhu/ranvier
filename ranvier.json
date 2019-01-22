@@ -1,10 +1,25 @@
 {
     "port": 4000,
     "bundles": [
+        "bundle-example-areas",
+        "bundle-example-channels",
         "bundle-example-debug",
+        "bundle-example-combat",
+        "bundle-example-commands",
+        "bundle-example-effects",
+        "bundle-example-npc-behaviors",
+        "bundle-example-player-events",
+        "bundle-example-quests",
+        "player-groups",
+        "progressive-respawn",
+        "simple-crafting",
+        "vendor-npcs",
+        "bundle-example-lib",
         "bundle-example-input-events",
         "telnet-networking",
-        "websocket-networking"
+        "websocket-networking",
+        "ranvier-dice-roller",
+        "ranvier-dnd"
     ],
     "dataSources": {
         "YamlArea": {
