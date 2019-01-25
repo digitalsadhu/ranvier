@@ -95,6 +95,14 @@
     },
     {
       "username": "Bumbum",
+      "deleted": true
+    },
+    {
+      "username": "Asdf",
+      "deleted": true
+    },
+    {
+      "username": "Samwise",
       "deleted": false
     }
   ],
